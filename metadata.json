@@ -1,0 +1,7 @@
+{
+  "name": "PictureMe - SATTI",
+  "description": "An AI-powered photo studio that transforms your pictures using creative themes and prompts with the Gemini API. See yourself in different decades, try new hairstyles, generate professional headshots, or create impossible selfies.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
